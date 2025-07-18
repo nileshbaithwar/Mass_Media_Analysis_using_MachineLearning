@@ -1,7 +1,3 @@
-**Framingham Coronary Heart Disease (CHD) Patient Analysis using Machine Learning (ML)**:
-
----
-
 # 🏥 Framingham CHD Patient Analysis Using Machine Learning
 
 This project focuses on predicting the risk of Coronary Heart Disease (CHD) in patients based on the **Framingham Heart Study dataset** using various **machine learning algorithms**. The goal is to build a predictive model that can assist healthcare professionals in identifying high-risk patients for early intervention.
@@ -153,14 +149,6 @@ This script will load the data, perform preprocessing, train the models, and out
 * **Deep Learning Models**: Implement advanced models like LSTM, CNN, or neural networks for better prediction.
 * **Real-time Prediction System**: Develop an API or application that can predict CHD risk in real-time based on patient data.
 * **Multi-Class Classification**: Classify patients into different risk categories (e.g., Low, Moderate, High risk).
-
----
-
-## 🛡️ License
-
-This project is licensed under the **MIT License**.
-
----
 
 ## 🙋‍♂️ Contributing
 
